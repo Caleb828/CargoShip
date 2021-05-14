@@ -1,0 +1,10 @@
+J:\VS Projects\CargoShip2\bin\Debug\CargoShip2.exe.config
+J:\VS Projects\CargoShip2\bin\Debug\CargoShip2.exe
+J:\VS Projects\CargoShip2\bin\Debug\CargoShip2.pdb
+J:\VS Projects\CargoShip2\obj\Debug\CargoShip2.csprojAssemblyReference.cache
+J:\VS Projects\CargoShip2\obj\Debug\CargoShip2.Form1.resources
+J:\VS Projects\CargoShip2\obj\Debug\CargoShip2.Properties.Resources.resources
+J:\VS Projects\CargoShip2\obj\Debug\CargoShip2.csproj.GenerateResource.cache
+J:\VS Projects\CargoShip2\obj\Debug\CargoShip2.csproj.CoreCompileInputs.cache
+J:\VS Projects\CargoShip2\obj\Debug\CargoShip2.exe
+J:\VS Projects\CargoShip2\obj\Debug\CargoShip2.pdb
